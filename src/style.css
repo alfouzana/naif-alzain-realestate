@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #0f766e;
+  --color-brand-dark: #115e59;
+  --font-sans: "Tajawal", ui-sans-serif, system-ui, sans-serif;
+}
+
+html { scroll-behavior: smooth; }
